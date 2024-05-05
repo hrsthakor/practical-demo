@@ -4,9 +4,9 @@
 This is a Laravel project for practical demo.
 
 ## Setup
-<!-- 1. Clone the repository:
+ 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/laravel-project.git -->
+    git clone https://github.com/hrsthakor/practical-demo 
     ```
 
 2. Install dependencies:
